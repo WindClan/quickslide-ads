@@ -1,5 +1,6 @@
 [
-    "images/example1.lua",
-    "images/example2.lua",
-    "images/example3.lua"
+    "images/ad.lua",
+    "images/fs.lua",
+    "images/image1.lua",
+	"images/image2.lua"
 ]

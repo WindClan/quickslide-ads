@@ -1,0 +1,6 @@
+term.setBackgroundColor(colors.black)
+term.clear()
+term.setTextColor(colors.white)
+bigfont.writeOn(term.current(), 3, "\\fs", 5, 15)
+bigfont.writeOn(term.current(), 1, "The best way", 90, 22)
+bigfont.writeOn(term.current(), 1, "to search for shops.", 90, 25)
